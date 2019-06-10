@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="root-crontab-file" type="PLAIN_TEXT" />
+      <mapping pattern="ghhh" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
