@@ -77,8 +77,8 @@
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="MULTILINE_CHAINED_CALLS_SEMICOLON_ON_NEW_LINE" value="true" />
   </PHPCodeStyleSettings>
-  <PostgresCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <PostgresCodeStyleSettings version="2">
+    <option name="USE_GENERIC_STYLE" value="true" />
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
@@ -136,5 +136,8 @@
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+  <codeStyleSettings language="PostgreSQL">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   </codeStyleSettings>
 </code_scheme>
