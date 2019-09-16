@@ -1,10 +1,10 @@
 <application>
-  <component name="DatabaseSettings" version="3">
+  <component name="DatabaseSettings" version="4">
     <option name="execute-inside-option" value="2" />
     <exec-options>
       <exec-option exec-inside="2" />
       <exec-option />
-      <exec-option exec-inside="5" />
+      <exec-option exec-inside="5" exec-outside="2" />
     </exec-options>
     <text-mode>
       <parameter-patterns>
