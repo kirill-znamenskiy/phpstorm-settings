@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="fff" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_cert_znamenskiy" type="PLAIN_TEXT" />
       <mapping pattern="ii-crontab-file" type="PLAIN_TEXT" />
