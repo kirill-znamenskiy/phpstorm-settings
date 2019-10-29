@@ -1,18 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="fff" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_cert_znamenskiy" type="PLAIN_TEXT" />
-      <mapping pattern="ii-crontab-file" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_certs_znamenskiy_me" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="sss-crontab-file" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="ii-crontab-file" type="PLAIN_TEXT" />
       <mapping pattern="ghhh" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_params" type="PLAIN_TEXT" />
       <mapping pattern="root-crontab-file" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on__certs_zkiy_ru" type="PLAIN_TEXT" />
       <mapping pattern="ssl_params" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
