@@ -97,8 +97,7 @@
     <option name="IMP_DECLARE_EL_WRAP" value="1" />
     <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="1">
-    <option name="myVersion" value="1" />
+  <SqlCodeStyleSettings version="2">
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
