@@ -8,18 +8,23 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="08c505d5-4a88-4d83-927c-578206db9b8a" name="PHP 7.3" home="/usr/local/Cellar/php/7.3.11/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="e80acad4-ad6c-463b-aae4-ce140979c275" name="PHP 7.2" home="/usr/local/Cellar/php/7.2.10/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.3">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.11/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.11/bin/php" path_separator=":" version="7.3.11">
-          <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-imap.ini, /usr/local/etc/php/7.3/conf.d/ext-opcache.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
+      <interpreter name="PHP 7.2">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.2.10/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.2.10/bin/php" path_separator=":" version="7.2.10">
+          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-imap.ini, /usr/local/etc/php/7.2/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.11/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.2.10/share/php/pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.6.1">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -77,9 +82,9 @@
             <extension name="sysvmsg" />
             <extension name="sysvsem" />
             <extension name="sysvshm" />
-            <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
