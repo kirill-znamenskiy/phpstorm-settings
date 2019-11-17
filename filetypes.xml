@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="v3toys-crontab" type="PLAIN_TEXT" />
+      <mapping pattern="kz-crontab-file" type="PLAIN_TEXT" />
       <mapping pattern="fff" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_cert_znamenskiy" type="PLAIN_TEXT" />
