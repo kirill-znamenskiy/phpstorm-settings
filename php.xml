@@ -1,13 +1,13 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="434e980c-68b9-42d2-9780-b2febfd6a620" name="PHP-7.3.11" home="/usr/local/Cellar/php@7.3/7.3.25_1/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/lib/php/pecl/20180731/xdebug.so" />
+      <interpreter id="434e980c-68b9-42d2-9780-b2febfd6a620" name="PHP-7.3.25" home="/usr/local/Cellar/php@7.3/7.3.25_1/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/lib/php/pecl/20180731/xdebug.so" />
       <interpreter id="d0d0ec94-6f5f-4f1e-9fbf-710b1e9ca731" name="PHP-8.0.0" home="/usr/local/Cellar/php/8.0.0_1/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/lib/php/pecl/20200930/xdebug.so" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP-7.3.11">
+      <interpreter name="PHP-7.3.25">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.3/7.3.25_1/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.3/7.3.25_1/bin/php" path_separator=":" version="7.3.25">
           <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-grpc.ini, /usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/ext-uv.ini, /usr/local/etc/php/7.3/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
