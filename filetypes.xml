@@ -1,33 +1,33 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="bOnPXSd6HOYedxpB4kQqFHrqf3pJ5XEHcLivCqzG" type="PLAIN_TEXT" />
+      <mapping pattern="kz-crontab-file" type="PLAIN_TEXT" />
+      <mapping pattern="msmtprc" type="PLAIN_TEXT" />
       <mapping pattern="sss-crontab-file" type="PLAIN_TEXT" />
-      <mapping pattern="ll_core_users" type="PLAIN_TEXT" />
-      <mapping pattern="ssl_on_cert_znamenskiy" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_cert_sendpass_online" type="PLAIN_TEXT" />
-      <mapping pattern="ssl_on_cert_kzdev_tk" type="PLAIN_TEXT" />
-      <mapping pattern="ssl_on__certs_zkiy_ru" type="PLAIN_TEXT" />
-      <mapping pattern="ghhh" type="PLAIN_TEXT" />
       <mapping pattern="fff" type="PLAIN_TEXT" />
-      <mapping pattern="v3toys-crontab-file" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern="ssl_params" type="PLAIN_TEXT" />
+      <mapping pattern="ssl_on_cert_znamenskiy" type="PLAIN_TEXT" />
+      <mapping pattern="ssl_on_certs_znamenskiy_me" type="PLAIN_TEXT" />
+      <mapping pattern="ssl_on_cert_kzdev_tk" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_cert_dev_sendpass_online" type="PLAIN_TEXT" />
       <mapping pattern="v3toys-crontab" type="PLAIN_TEXT" />
-      <mapping pattern="root-crontab-file" type="PLAIN_TEXT" />
-      <mapping pattern="ssl_on_cert_sendpass_kzdev_tk" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="kz-crontab-file" type="PLAIN_TEXT" />
+      <mapping pattern="bOnPXSd6HOYedxpB4kQqFHrqf3pJ5XEHcLivCqzG" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="ii-crontab-file" type="PLAIN_TEXT" />
+      <mapping pattern="ghhh" type="PLAIN_TEXT" />
+      <mapping pattern="v3toys-crontab-file" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_params" type="PLAIN_TEXT" />
-      <mapping pattern="msmtprc" type="PLAIN_TEXT" />
-      <mapping pattern="ssl_on_certs_znamenskiy_me" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping pattern="ssl_on_cert_sendpass_kzdev_tk" type="PLAIN_TEXT" />
+      <mapping pattern="root-crontab-file" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="ll_core_users" type="PLAIN_TEXT" />
+      <mapping pattern="ssl_on__certs_zkiy_ru" type="PLAIN_TEXT" />
+      <mapping pattern="ssl_params" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
