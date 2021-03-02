@@ -7,8 +7,8 @@
       <mapping pattern="ll_core_users" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_cert_znamenskiy" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_cert_sendpass_online" type="PLAIN_TEXT" />
-      <mapping pattern="ssl_on_cert_kzdev_tk" type="PLAIN_TEXT" />
       <mapping pattern=".tarantoolctl" type="PLAIN_TEXT" />
+      <mapping pattern="ssl_on_cert_kzdev_tk" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on__certs_zkiy_ru" type="PLAIN_TEXT" />
       <mapping pattern="ghhh" type="PLAIN_TEXT" />
       <mapping pattern="fff" type="PLAIN_TEXT" />
