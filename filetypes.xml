@@ -26,6 +26,7 @@
       <mapping pattern="ssl_on_params" type="PLAIN_TEXT" />
       <mapping pattern="msmtprc" type="PLAIN_TEXT" />
       <mapping pattern="ssl_on_certs_znamenskiy_me" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="target" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
