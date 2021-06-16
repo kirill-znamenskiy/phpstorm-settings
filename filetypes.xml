@@ -32,6 +32,7 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="xlog" type="PLAIN_TEXT" />
+      <mapping ext="theme" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
