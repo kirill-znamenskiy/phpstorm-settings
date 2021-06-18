@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="hhser.beget.tech" id="3cb3d264-78bb-421e-81cc-8062f953abd1" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="hhser_kz" />
+    </configs>
+  </component>
+</application>
